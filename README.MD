@@ -1,8 +1,8 @@
 # Header Parser 
-Fullstack javascritp miscroservice for the FreeCodeCamp certificate
+Fullstack javascritp miscroservice for the FreeCodeCamp certificate. Application is deployed on Heroku.
 
 ## Functionality
-Retrieves the IP address, language and operating system for the user browser and displays the information in a JSON object
+Retrieves the IP address, language and operating system for the user browser and displays the information in a JSON object.
 
 ## Credits
 - [Accepts](https://github.com/jshttp/accepts)
